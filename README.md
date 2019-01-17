@@ -1,4 +1,4 @@
-# #100DaysOfCode 2019i
+# #100DaysOfCode 2019
 
 I started #100daysofcode in December 2018, but close enough. It's a challenge where you code for at least an hour a day for 100 days straight.
 
