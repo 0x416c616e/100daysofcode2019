@@ -19,8 +19,10 @@ I started #100daysofcode in December 2018, but close enough. It's a challenge wh
 - Learned Tkinter
 - Brushed up on my Java skills
 - Did a refresher on JSON
+- Learned about JSON schemas and validation
+- Learned about XML
 - Got better with using Markdown
-- Learned SQL and MySQL and SQLite
+- Learned SQL and MySQL, MySQL Workbench, and SQLite
 - Learned more about hypervisors and virtualization
 - Learned more about information security
 - Reviewed some HTML and CSS stuff -- stuff I already knew
@@ -30,6 +32,7 @@ I started #100daysofcode in December 2018, but close enough. It's a challenge wh
 - Learned about wake-on-lan and task scheduling with systemd
 - got more familiar with Android (I used to only use iOS for mobile)
 - Learned Jekyll
+- Got more practice with debugging
 - Learned about MinGW and various package managers and path variables
 - Used vim, VS Code, PyCharm, Android Studio, and IntelliJ IDEA
 - Learned about the Apache Commons IO library for Java
