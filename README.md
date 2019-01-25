@@ -8,6 +8,8 @@ I started #100daysofcode in December 2018, but close enough. It's a challenge wh
 
 - EZcrypt: a file encryption/decryption app written in Java, with the JavaFX GUI framework
 - Static Site Generator: a tool for generating websites with no coding knowledge, written in Python, using Tkinter for the GUI
+- alans100daysofcode.com
+- Various learning-related repositories on GitHub
 
 ---
 
@@ -37,6 +39,11 @@ I started #100daysofcode in December 2018, but close enough. It's a challenge wh
 - Used vim, VS Code, PyCharm, Android Studio, and IntelliJ IDEA
 - Learned about the Apache Commons IO library for Java
 - Learned more about the Oracle API and the changes made in recent versions of Java (compared to Java 8)
+- Learned about Windows Server and Active Directory
+- Learned more command line utilities
+- Learned about design patterns
+- Learned about C
+- Learned about computer organization/architecture
 
 ---
 
@@ -48,6 +55,8 @@ I started #100daysofcode in December 2018, but close enough. It's a challenge wh
 - Coders at Work
 - Teach Yourself C in One Hour A Day
 - The Self-Taught Programmer (please note: I also have IT and CS uni education, not 100% self-taught, just learning things *in addition* to college classes, not *instead of*)
+- The Manga Guide to Databases
+- Computer Organization and Design
 
 ---
 
@@ -57,6 +66,7 @@ I started #100daysofcode in December 2018, but close enough. It's a challenge wh
 - Udemy GitHub Ultimate
 - Udemy Python Bootcamp
 - Udemy Python and Django Full Stack Web Developer Bootcamp
+- Various Youtube programming tutorials
 
 ---
 
@@ -79,3 +89,6 @@ I started #100daysofcode in December 2018, but close enough. It's a challenge wh
 - Fixing various people's computers and tech issues
 - Maintained a FreeNAS SMB server
 - Maintained networking equipment -- updates, security, etc.
+- Domain controller
+- Refurbishing old computers
+- Setting up a Cisco Catalyst 2950 managed switch
