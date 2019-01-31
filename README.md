@@ -70,6 +70,7 @@ I started #100daysofcode in December 2018, but close enough. It's a challenge wh
 - Udemy Python Bootcamp
 - Udemy Python and Django Full Stack Web Developer Bootcamp
 - Various Youtube programming tutorials
+- A Udemy course about Python unit testing
 
 ---
 
