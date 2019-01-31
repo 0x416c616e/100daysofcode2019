@@ -42,8 +42,11 @@ I started #100daysofcode in December 2018, but close enough. It's a challenge wh
 - Learned about Windows Server and Active Directory
 - Learned more command line utilities
 - Learned about design patterns
-- Learned about C
-- Learned about computer organization/architecture
+- Learned about unit testing
+- Learned about Docker containers
+- Learned about Travis CI
+- Learned about build systems
+
 
 ---
 
