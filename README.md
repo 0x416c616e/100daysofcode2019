@@ -46,7 +46,8 @@ I started #100daysofcode in December 2018, but close enough. It's a challenge wh
 - Learned about Docker containers
 - Learned about Travis CI
 - Learned about build systems
-
+- Learned about YAML
+- Learned about GPG and email encryption and public/private key cryptography
 
 ---
 
